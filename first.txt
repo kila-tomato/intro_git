@@ -1,2 +1,4 @@
 Gitの練習
-zsh:1: command not found: x
+
+・git add
+・git commit
