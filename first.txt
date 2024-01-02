@@ -17,7 +17,8 @@ Gitの練習
 →ステージングとローカルの差分表示
 ・git diff --staged
 →最新コミットとステージングの差分
-・git remote add origin https://github.com~url
+・git remote add origin https://github.com/ユーザネーム/リポジトリ名
+→オリジンの登録
 
 ・Everything up-to-date
 →(リモートリポジトリは)すべて最新です
