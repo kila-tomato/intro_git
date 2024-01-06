@@ -22,3 +22,8 @@ Gitの練習
 
 ・Everything up-to-date
 →(リモートリポジトリは)すべて最新です
+
+GitHubから取得
+・git fetch：リモートリポジトリからローカルリポジトリに下ろす
+・git merge：リポジトリの統合
+・git pull：上記2つを行う
