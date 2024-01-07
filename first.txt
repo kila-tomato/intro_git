@@ -27,3 +27,7 @@ GitHubから取得
 ・git fetch：リモートリポジトリからローカルリポジトリに下ろす
 ・git merge：リポジトリの統合
 ・git pull：上記2つを行う
+
+ブランチ
+・git branch：チーム開発で役に立つ
+
