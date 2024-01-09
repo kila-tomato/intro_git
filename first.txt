@@ -35,3 +35,5 @@ GitHub Flow
 →推奨されるワークフローのこと
 ・masterブランチはリリースできる状態にしておく
 ・開発ごとにブランチを切り、こまめにpushする
+
+rebased,tag,stashを学ぶ
